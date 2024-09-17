@@ -1,2 +1,6 @@
 # belajar-kolaborasi
-Merubah lagi ddadn lagi pada readme.md
+
+Belajar github di dicoding sangat menyenangkan <br>
+Mendokumentasikan di Github menjadi lebih mudah <br>
+Manajemen menjadi lebih mudah berkat github
+
