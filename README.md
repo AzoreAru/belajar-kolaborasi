@@ -1,2 +1,2 @@
 # belajar-kolaborasi
-Perubahan pada readme.md
+Merubah pada readme.md
